@@ -8,6 +8,14 @@ This is not a definitive list, but it should capture many of the accounts using 
 
 Future contributions to this list are appreciated, whether by expanding the set of SKARS audio pages, adding other AI artist `reels/audio` pages, or growing the list of usernames.
 
-The current set of SKARS `reels/audio` pages used for collection is listed in [data/skars_audio_pages.txt](/C:/Users/Gage/Documents/SKAR%20KILLER/data/skars_audio_pages.txt).
+Files in this repo:
+
+- [usernames.csv](/C:/Users/Gage/Documents/SKAR%20KILLER/usernames.csv)
+- [usernames.txt](/C:/Users/Gage/Documents/SKAR%20KILLER/usernames.txt)
+- [urls.csv](/C:/Users/Gage/Documents/SKAR%20KILLER/urls.csv)
+- [urls.txt](/C:/Users/Gage/Documents/SKAR%20KILLER/urls.txt)
+- [audio-pages.txt](/C:/Users/Gage/Documents/SKAR%20KILLER/audio-pages.txt)
+
+The current set of SKARS `reels/audio` pages used for collection is listed in [audio-pages.txt](/C:/Users/Gage/Documents/SKAR%20KILLER/audio-pages.txt).
 
 The audio-page scrape was run with this Apify actor: [Instagram Reels Audio Scraper](https://console.apify.com/actors/KsASSQAfk9758gDlc).
