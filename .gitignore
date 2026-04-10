@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!data/
+data/*
+!data/audio_author_usernames.csv
+!data/audio_author_usernames.txt
+!data/audio_author_profile_urls.csv
+!data/audio_author_profile_urls.txt
